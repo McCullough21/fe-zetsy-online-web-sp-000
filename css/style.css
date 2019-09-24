@@ -17,7 +17,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-.img[alt="necklace"]{
+img[alt="necklace"]{
 	display: inline-block;
 	border: 5px solid;
 	border-color: rgb(190, 193, 193);
