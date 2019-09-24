@@ -21,6 +21,7 @@ body {
 .img {
 	display: inline-block;
 	align-items: center;
-	border: 5px solid grey;
+	border: 5px solid;
+	border-color: grey opacity 50%;
 
 }
