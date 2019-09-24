@@ -27,6 +27,9 @@ img[alt="necklace"]{
 	border: 5px solid;
 	border-color: rgb(190, 193, 193);
 }
+h1 {
+	font-size: 20px;
+}
 h1, h2 {
 	color: grey;
 }
