@@ -18,7 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
-#img {
+.img {
 	box-sizing: border-box;
 	align-items: center;
 	border: 1px solid grey;
