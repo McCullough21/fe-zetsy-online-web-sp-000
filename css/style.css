@@ -21,6 +21,6 @@ body {
 .img {
 	display: inline-block;
 	align-items: center;
-	border: 1px solid grey;
+	border: 10px solid grey;
 
 }
