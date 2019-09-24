@@ -18,7 +18,6 @@ body {
 }
 
 img[alt="necklace"]{
-	display: inline-block;
 	border: 5px solid;
 	border-color: rgb(190, 193, 193);
 }
