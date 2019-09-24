@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 #img {
-	display: inline-block;
+	display: grid;
 	align-items: center;
 	width: auto;
 	border: 1px solid grey;
