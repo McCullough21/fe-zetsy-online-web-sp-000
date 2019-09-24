@@ -21,6 +21,5 @@ body {
 #img {
 	box-sizing: border-box;
 	align-items: center;
-	width: auto;
 	border: 1px solid grey;
 }
