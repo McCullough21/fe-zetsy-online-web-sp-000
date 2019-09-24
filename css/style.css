@@ -18,8 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
-section #img {
-	
+#img {
+
 	align-items: center;
 	width: 25%;
 	border: 1px solid grey;
