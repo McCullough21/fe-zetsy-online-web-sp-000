@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 #img {
 	display: inline-block;
-	vertical-align: bottom;
+	align-items: bottom;
 	align-items: center;
 	width: 25%;
 	border: 1px solid grey;
