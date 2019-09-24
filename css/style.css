@@ -23,5 +23,8 @@ body {
 	align-items: center;
 	border: 5px solid;
 	border-color: rgb(190, 193, 193);
+}
+h1, h2 {
+	color: grey;
 
 }
